@@ -104,11 +104,13 @@
     }
 }
 
-.nav__close {
+.nav__close,
+.nav__open {
     text-decoration: none;
     -webkit-tap-highlight-color: transparent;
   }
-  .nav__close:focus {
+  .nav__close:focus,
+  .nav__open {
     outline: none !important;
     outline: none; /* remove outline */
     box-shadow: none; /* remove box shadow */
