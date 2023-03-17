@@ -102,6 +102,10 @@ a {
   text-decoration: none;
 }
 
+i {
+  font-style: normal;
+}
+
 button {
   cursor: pointer;
   border: none;
