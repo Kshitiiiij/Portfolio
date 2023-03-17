@@ -100,8 +100,14 @@ ul {
 
 a {
   text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
 }
-
+a:focus {
+  outline: none !important;
+  outline: none; /* remove outline */
+  box-shadow: none; /* remove box shadow */
+  
+}
 i {
   font-style: normal;
 }
