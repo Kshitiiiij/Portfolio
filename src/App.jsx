@@ -2,6 +2,7 @@ import './App.css'
 import Header from './component/header/Header'
 import Home from './component/home/Home'
 import About from './component/about/About'
+import Skills from './component/skills/Skills'
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
       <main className="main">
         <Home />
         <About />
+        <Skills />
       </main>
     </>
   )
