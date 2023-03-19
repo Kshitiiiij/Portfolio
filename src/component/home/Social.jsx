@@ -5,7 +5,7 @@ export default function Social() {
             <i class="uil uil-instagram"></i>
             </a>
 
-            <a href="https://github.io/" className="home__social home__social-icon " target="_blank">
+            <a href="https://github.com/Kshitiiiij" className="home__social home__social-icon " target="_blank">
             <i class="uil uil-github-alt"></i>
             </a>
 
