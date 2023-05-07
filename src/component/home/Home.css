@@ -144,6 +144,8 @@
     }
 }
 
+
+
 @media screen and (max-width: 768px) {
     .home__content{
         grid-template-columns: 0.7fr 3fr;

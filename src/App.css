@@ -113,9 +113,9 @@ i {
 }
 
 button {
-  cursor: pointer;
   border: none;
   outline: none;
+  cursor: pointer;
 }
 
 img {
@@ -164,11 +164,12 @@ img {
   padding: 1.25rem 2rem;
   border-radius: 1rem;
   font-weight: var(--font-medium);
+  cursor: not-allowed;
 }
 
-.button:hover {
+/* .button:hover {
   background-color: var(--title-color-dark);
-}
+} */
 
 .button__icon {
   margin-left: var(--mb-0-5);

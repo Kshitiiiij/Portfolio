@@ -4,6 +4,7 @@ export default function Portfolio() {
     <section className="work section" id="portfolio">
       <h2 className="section__title">Portfolio</h2>
       <div className="section__subtitle">Projects</div>
+      <div className="section__title">Currently Under Work</div>
     </section>
   )
 }

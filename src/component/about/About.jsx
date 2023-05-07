@@ -13,7 +13,7 @@ const About = () => {
                 <div className="about__data">
                     <Info />
                     <p className="about__description">
-                        Fullstack web developer.
+                        Student and Web enthusiast who loves technology.
                     </p>
 
                     <a download=' ' href={CV} className="button button-flex">Download CV

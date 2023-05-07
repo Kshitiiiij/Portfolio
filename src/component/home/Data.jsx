@@ -3,9 +3,9 @@ const Data = () => {
   return (
     <div className="home__data">
         <h1 className="home__title">Kshitij</h1>
-        <h3 className="home__subtitle">Web Developer</h3>
+        <h3 className="home__subtitle">Student and Tech enthusiast</h3>
         <p className="home__description">
-            I am a webdeveloper based in Hamirpur, studying in NIT Hamirpur.
+     
         </p>
 
         <a href="#contacts" className="button button-flex">

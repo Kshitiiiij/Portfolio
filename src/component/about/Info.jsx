@@ -16,7 +16,8 @@ const Info = () => {
             <div className="about__box">
             <i class='bx bx-expand-horizontal about__icon' ></i>
                 <h3 className="about__title">Ambitions</h3>
-                <span className="about__subtitles">NIT Hamirpur</span>
+                <span className="about__subtitles"> Software Development
+</span>
             </div>
         </div>
     )

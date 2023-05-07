@@ -76,6 +76,10 @@ const Skills = () => {
                   skill='MySQL'
                   level='Basic'
                 />
+                 <WhatSkills
+                  skill='Prisma'
+                  level='Basic'
+                />
               </div>
             </div>
           </div>
