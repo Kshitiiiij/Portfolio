@@ -1,6 +1,8 @@
 import Work1 from '../../assets/work1.png';
 import Work2 from '../../assets/work2.png';
 import Work3 from '../../assets/work3.png';
+import Work4 from '../../assets/work4.png';
+
 
 
 export const projectsData = [
@@ -28,6 +30,14 @@ export const projectsData = [
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         category: 'web',
         link: 'https://workout-buddy-kshitiiiij.vercel.app'
+    },
+    {
+        id: 4,
+        image: Work4,
+        title: 'Pizza Place',
+        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+        category: 'web',
+        link: 'https://kshitiiiij.github.io/PizzaPlace-/'
     }
 ];
 
