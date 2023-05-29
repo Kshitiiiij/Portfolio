@@ -101,6 +101,7 @@ ul {
 a {
   text-decoration: none;
   -webkit-tap-highlight-color: transparent;
+  color: var(--text-color);
 }
 a:focus {
   outline: none !important;
@@ -164,7 +165,6 @@ img {
   padding: 1.25rem 2rem;
   border-radius: 1rem;
   font-weight: var(--font-medium);
-  cursor: not-allowed;
 }
 
 /* .button:hover {
