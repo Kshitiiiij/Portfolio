@@ -19,7 +19,7 @@ export const projectsData = [
         title: 'IMDb Clone',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
         category: 'web',
-        link: 'https://vercel.com/kshitiiiij/im-db-clone'
+        link: 'https://im-db-clone-phi.vercel.app/'
     },
     {
         id: 3,
